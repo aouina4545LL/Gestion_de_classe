@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>95a6bd9b-5a25-4a55-81ad-47849ae48060.png</file>
+    <file>a7cb7b62-1b16-44ed-82b1-8bac7f128453.png</file>
+    <file>ed69ebb0-2038-4f50-9e4f-14b4c6ce9822.png</file>
+    <file>fa352ad1-3fd5-4c0d-8aa1-7a5c50fae3e9.png</file>
+    <file>icons8-rotate-left-30.png</file>
+  </qresource>
+</RCC>
